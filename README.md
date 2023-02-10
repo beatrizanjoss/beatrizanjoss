@@ -21,6 +21,6 @@ parceria com o Senac e a Resilia Educação.
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/beatriz-anjos-2b277a251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/beatrizanjoss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
