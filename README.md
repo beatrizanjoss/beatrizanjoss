@@ -1,7 +1,5 @@
 ## Hi, Eu sou a Beatriz Anjos
 
-- 🔭 Atualmente trabalho em Restaurante como chefe de turno mas estou em busca de uma oportunidade no
-mundo tecnologico.
 - 🌱 Iniciando a faculdade bacharelo em engenharia de software / Cursando desenvolvimento web full-stack 
 através do projeto programadores cariocas que foi proposto pela Prefeitura do Rio de Janeiro, em 
 parceria com o Senac e a Resilia Educação.
